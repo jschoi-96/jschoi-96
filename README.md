@@ -1,6 +1,5 @@
 
 
-![header](https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&fontColor=7FFFD4&fontSize=50&type=cylinder)
 <!--
 **jschoi-96/jschoi-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
